@@ -1,4 +1,7 @@
-ya vse protykal i zapustil vrode dazhe(zahodil na local site tam bilo 
+build почему то скинулся
+
+ya vse protykal i zapustil vrode dazhe. zahodil na local site tam bilo
+
 Whitelabel Error Page This application has no explicit mapping for /error, so you are seeing this as a fallback.
 
 Mon Nov 23 17:33:09 YEKT 2026

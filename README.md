@@ -1,6 +1,5 @@
-build почему то скинулся
-
-ya vse protykal i zapustil vrode dazhe. zahodil na local site tam bilo
+Я всё протыкал и даже запустил без базы 
+и вот что мне на сайте http://localhost:10900/ выдало
 
 Whitelabel Error Page This application has no explicit mapping for /error, so you are seeing this as a fallback.
 
